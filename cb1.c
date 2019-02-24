@@ -1,3 +1,12 @@
+/********************************************************************
+* File Name: Index out of bounds
+* Description:  File for cppcheck
+* Tool-Chain: AVR gcc
+*
+*  Modification History:
+*  Created by:  Vaidehi S.  
+*  Version: 1.0
+*********************************************************************/
 
 #include<stdio.h>
 /*********************************************************************
